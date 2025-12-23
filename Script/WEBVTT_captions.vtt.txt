@@ -1,0 +1,14 @@
+WEBVTT
+
+1
+00:00:00.200 --> 00:00:02.896 align:middle
+I made these captions up in order to do the assignment
+
+00:00:02.896 --> 00:00:04.756 align:middle
+Also I wasn't able to link the mp4 and webm file due to the absence of the file, I didn't get the resources to do so hence I couldn't link the videos.
+
+00:00:04.756 --> 00:00:06.436 align:middle
+I just attached a youtube video but it doesn't show up on the page so I linked it on the side just in case.
+
+00:00:06.436 --> 00:00:08.536 align:middle
+The videos aren't mine though.
